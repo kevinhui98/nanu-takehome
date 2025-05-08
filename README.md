@@ -74,7 +74,6 @@ Settings are:
 
 ### App Walkthough GIF
 
-<img src="walkthrough.webm" width=250><br>
 https://imgur.com/a/kxvs83y
 ## Notes
 
